@@ -20,10 +20,12 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#8c8c8c"
+      ]
     },
     "versionFirst": "4.5.4",
-    "uniqCompNum": 12,
+    "uniqCompNum": 15,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@"
   },
@@ -228,6 +230,32 @@
           "_anchor": "footer1-a"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#3d8eb9"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Enmarcados",
+          "meta": "Medida: 15x20 cm.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c"
+        },
+        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": false,
@@ -236,7 +264,7 @@
             "paddingTop": 4,
             "paddingBottom": 4,
             "filterBgColor": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "showText": true,
             "filter": false,
             "images": [
@@ -337,6 +365,143 @@
           "allItem": "All",
           "_name": "gallery2",
           "_anchor": "gallery2-b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#d14841"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#d14841"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Enmarcados",
+          "meta": "Medida: 20x25 cm.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-d"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "#efefef",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-1-1942x2363.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1-1942x2363-800x973.jpg",
+                "alt": "",
+                "caption": "Ref: P-121",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-1942x2363.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1942x2363-800x973.jpg",
+                "alt": "",
+                "caption": "Ref: P-122",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-1942x2363.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1942x2363-800x973.jpg",
+                "alt": "",
+                "caption": "Ref: P-123",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-1-1942x2363.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1-1942x2363-800x973.jpg",
+                "alt": "",
+                "caption": "Ref: P-124",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-1942x2363.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1942x2363-800x973.jpg",
+                "alt": "",
+                "caption": "Ref: P-125",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-1942x2363.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1942x2363-800x973.jpg",
+                "alt": "",
+                "caption": "Ref: P-126",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-1-1942x2363.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1-1942x2363-800x973.jpg",
+                "alt": "",
+                "caption": "Ref: P-127",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-1942x2363.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1942x2363-800x973.jpg",
+                "alt": "",
+                "caption": "Ref: P-128",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-e"
         }
       ]
     }

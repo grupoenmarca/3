@@ -476,3 +476,23 @@ h6,
 #ext_menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-c .mbr-section-title,
+#header3-c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-c .mbr-section-title {
+  color: #2969b0;
+}
+#header3-c .mbr-section-subtitle {
+  color: #3d8eb9;
+}
+#header3-d .mbr-section-title,
+#header3-d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-d .mbr-section-title {
+  color: #d14841;
+}
+#header3-d .mbr-section-subtitle {
+  color: #d14841;
+}
