@@ -61,10 +61,10 @@
         {
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
+            "fullScreen": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#fff",
             "timeout": 5,
             "slides": [
@@ -132,7 +132,7 @@
             "paddingBottom": 4,
             "filterBgColor": false,
             "bgColor": "#efefef",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
