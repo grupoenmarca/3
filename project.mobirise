@@ -347,7 +347,7 @@
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "3",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -367,7 +367,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "page5.html",
+              "link": "",
               "alt": "",
               "title": ""
             }
@@ -378,7 +378,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "page5.html",
+              "link": "",
               "alt": "",
               "title": ""
             }
@@ -389,7 +389,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "page5.html",
+              "link": "",
               "alt": "",
               "title": ""
             }
@@ -400,7 +400,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "page5.html",
+              "link": "",
               "alt": "",
               "title": ""
             }
