@@ -247,8 +247,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Enmarcados",
-          "meta": "Medida: 15x20 cm.",
+          "title": "Enmarcado",
+          "meta": "Medida: 20x25 cm.",
           "_tags": [
             "Theme"
           ],
@@ -385,7 +385,7 @@
             "bgColor": "#fff"
           },
           "title": "Enmarcados",
-          "meta": "Medida: 20x25 cm.",
+          "meta": "Medida: 15x20 cm.",
           "_tags": [
             "Theme"
           ],
